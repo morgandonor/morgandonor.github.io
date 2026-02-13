@@ -1,7 +1,0 @@
-{
-  "name": "SonicPocket 02/12/26-D",
-  "description": "A mobile-first, professional song editor. Import, remix, enhance, and export your tracks.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
